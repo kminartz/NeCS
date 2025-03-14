@@ -1,0 +1,11 @@
+matplotlib==3.7.2
+numpy==1.25.2
+pandas==2.0.3
+Pillow==10.0.0
+scipy==1.11.2
+seaborn==0.12.2
+shapely==2.0.2
+tueplots==0.0.8
+typing_extensions==4.12.2
+tqdm==4.67.1
+tables==3.9.2
