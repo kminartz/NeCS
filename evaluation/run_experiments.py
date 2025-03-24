@@ -104,7 +104,7 @@ def run_experiments(cfg):
     # pairwise avoidance:
     ef.counterflow_transfer_function(cfg, num_repetitions=3, delta_x_range=(-2500, 2500),  #TODO: 300
                                      tmax=11,
-                                     corbetta_data="counterflow_transfer_function/Corbetta-2018-obs.h5")
+                                     corbetta_data=None)
 
     # # # force field for neighbors walking in the same/opposite directions:
     ## same:
